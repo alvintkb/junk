@@ -1,0 +1,11 @@
+ Volume in drive D is LENOVO
+ Volume Serial Number is EC01-3ED9
+
+ Directory of D:\gittest
+
+23/04/2017  06:04 PM    <DIR>          .
+23/04/2017  06:04 PM    <DIR>          ..
+23/04/2017  05:02 PM               330 junk.txt
+23/04/2017  06:04 PM                 0 junk2.txt
+               2 File(s)            330 bytes
+               2 Dir(s)  500,028,739,584 bytes free
